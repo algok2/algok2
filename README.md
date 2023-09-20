@@ -10,8 +10,8 @@
   - 이건 블럭입니다.
     >블럭시작
     >블럭이 3줄 입니다.
-    >블럭
+    >블럭          
 2. my Image
-   ![뭐지](https://github.com/algok2/algok2/assets/44625038/195ad4d9-a6d5-439a-8292-1d3843e6e111)
+   ![Alt text](https://github.com/algok2/algok2/assets/44625038/195ad4d9-a6d5-439a-8292-1d3843e6e111)
    
   ![image](https://github.com/algok2/algok2/assets/44625038/195ad4d9-a6d5-439a-8292-1d3843e6e111)
