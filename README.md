@@ -1,3 +1,4 @@
+<sup style="display: inline-block;">**tip:** click on the pencil icon on the left to clear the editor)</sup>
 # README.md
 
 1. Image test
